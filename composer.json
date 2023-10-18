@@ -1,5 +1,5 @@
 {
-    "name": "cache/apcu-adapter",
+    "name": "jeffhartman/cache-apcu-adapter",
     "description": "A PSR-6 cache implementation using apcu. This implementation supports tags",
     "license": "MIT",
     "type": "library",
